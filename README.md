@@ -11,7 +11,7 @@ Instale e configure o Cypress no aplicativo escolhido.
 ### Exercício 2
 
 Escolha uma tela ou página da aplicação e faça pelo menos 3 testes de layout, como visto no material.
-- use pelo menos 1 get, 1 contains e 1 should.
+- como um todo, use pelo menos 1 get, 1 contains e 1 should.
 
 ### Exercício 3
 
